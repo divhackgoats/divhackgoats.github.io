@@ -52,6 +52,7 @@
 		-webkit-text-size-adjust: none;
 	}
 
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1412,7 +1413,7 @@
 
 	a {
 		color: #0090c5;
-		text-decoration: underline;
+		text-decoration: none;
 	}
 
 		a:hover {
@@ -2106,7 +2107,8 @@
 	}
 
 		#footer a {
-			color: inherit;
+			/*color: inherit;*/
+			color: #0090c5;			
 		}
 
 	#copyright {
