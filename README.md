@@ -1,5 +1,4 @@
 # thegoats
 &lt;div> hackathon project
 
-collaborators:
-Ahkeem Sterling
+Demonstration of a social media site for educators to pool, rate, and discuss classroom resources.
