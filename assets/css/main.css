@@ -91,6 +91,10 @@
 
 	/* Image */
 
+	.reviews { 
+		width: 100%;
+
+	 }
 	.image {
 		border-radius: 5px;
 		border: 0;
@@ -1740,7 +1744,8 @@
 		}
 
 /* List */
-
+	.style2 {float:left;
+			margin-left: 2%;}
 	ul.default {
 		list-style: disc;
 		padding-left: 1em;
